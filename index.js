@@ -16,3 +16,4 @@ exports.expand = function(pathData, shortened) {
   var pathIndex = parseInt(shortened, 36);
   return pathData.map[pathIndex];
 }
+// here's an insightful comment
