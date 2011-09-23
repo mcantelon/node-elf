@@ -7,5 +7,5 @@
   , "dependencies": {}
   , "main": "index"
   , "engines": { "node": "0.4.x" }
-  , "pooch": { "magic" }
+  , "pooch": [ "magic" ]
 }
