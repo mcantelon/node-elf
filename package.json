@@ -1,0 +1,11 @@
+{
+    "name": "elf"
+  , "version": "0.0.1"
+  , "description": "Test"
+  , "keywords": []
+  , "author": "Mike Cantelon <mcantelon@gmail.com>"
+  , "dependencies": {}
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+  , "pooch": { "magic" }
+}
