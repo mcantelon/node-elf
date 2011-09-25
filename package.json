@@ -7,5 +7,7 @@
   , "dependencies": {}
   , "main": "index"
   , "engines": { "node": "0.4.x" }
-  , "pooch": [ "magic" ]
+  , "local": {
+    "start": "nide init -p {port}"
+  }
 }
