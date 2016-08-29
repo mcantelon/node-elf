@@ -17,3 +17,4 @@ exports.expand = function(pathData, shortened) {
   return pathData.map[pathIndex];
 }
 // here's an insightful comment
+exports.version = '0.0.2';
